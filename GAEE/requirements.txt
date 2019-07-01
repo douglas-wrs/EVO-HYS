@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+# conda install matplotlib
+sklearn
+deap
+pandas
+tabulate
